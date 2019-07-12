@@ -21,7 +21,7 @@ Chairs:  Alexey Melnikov, Nick Sullivan, Kenny Paterson (not present)
 16:35 Streebog & Kuznyechik
     (10+5; Leo Perrin)
 
-16:50 Hash to curve (https://tools.ietf.org/html/draft-irtf-cfrg-hash-to-curve-04)
+16:50 Hash to curve (draft-irtf-cfrg-hash-to-curve-04)
     (5+5; Riad Wahby)
 
 17:00 PAKE selection process
