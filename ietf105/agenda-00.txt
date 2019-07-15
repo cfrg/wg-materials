@@ -12,7 +12,7 @@ Chairs:  Alexey Melnikov, Nick Sullivan, Kenny Paterson (not present)
 15:55 HPKE (draft-irtf-cfrg-hpke-00)
     (10+5, Richard Barnes HPKE)
 
-16:10 NGM AEAD mode
+16:10 MGM AEAD mode
     (5+5; Stanislav Smyshlyaev)
 
 16:20 Pairing-friendly Curves (draft-yonezawa-pairing-friendly-curves)
